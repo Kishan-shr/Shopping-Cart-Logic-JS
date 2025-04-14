@@ -2,43 +2,32 @@
 
 A simple and functional shopping cart demo built using Vanilla JavaScript, showcasing the core logic behind adding items to a cart, saving it in localStorage, and rendering a dynamic cart UI — all without any frameworks or backend!
 
-📸 Demo Preview
+## 📸 Demo Preview
 
- 
+![Shopping Cart Screenshot](./screenshot.png) <!-- Optional: Add a screenshot of your app -->
 
-✨ Features
+---
 
-🛍️ Add products to cart
+## 🚀 Features
 
-📂 Persistent cart using localStorage
+- 🛍️ Add products to cart
+- 💾 Persistent cart using `localStorage`
+- 💵 Real-time total price updates
+- 🧹 Clear cart on checkout
+- 🎨 Basic responsive UI with dynamic rendering
 
-💵 Real-time total price updates
+---
 
-🧹 Clear cart on checkout
+## 🛠️ Tech Stack
 
-🎨 Basic responsive UI with dynamic rendering
+| Tool | Description |
+|------|-------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | Markup for the product and cart layout |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | Basic styling and layout |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Core logic for cart functionality |
+| ![LocalStorage](https://img.shields.io/badge/Storage-LocalStorage-11B5E4?style=flat) | Saves cart data in the browser |
 
-🛠️ Tech Stack
-
-Tool
-
-Description
-
-
-
-Markup for the product and cart layout
-
-
-
-Basic styling and layout
-
-
-
-Core logic for cart functionality
-
-
-
-Saves cart data in the browser
+-
 
 📂 Folder Structure
 
