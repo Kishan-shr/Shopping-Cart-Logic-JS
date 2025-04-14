@@ -4,7 +4,7 @@ A simple and functional shopping cart demo built using Vanilla JavaScript, showc
 
 ## 📸 Demo Preview
 
-![Shopping Cart Screenshot](./screenshot.png) <!-- Optional: Add a screenshot of your app -->
+![Shopping Cart Screenshot](Screenshot_13-4-2025_155514_127.0.0.1.jpeg) <!-- Optional: Add a screenshot of your app -->
 
 ---
 
